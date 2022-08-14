@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning Data Science and related concepts
 - 👯 I’m looking to collaborate on AI/ML/Data Science, Data Analytics
 - 📫 How to reach me:
-   - :LinkedIn:[LinkedIn](https://www.linkedin.com/in/s-arunachalam/)
+   - 💼[LinkedIn](https://www.linkedin.com/in/s-arunachalam/)
